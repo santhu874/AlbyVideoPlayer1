@@ -9,6 +9,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@ALBINPRAVEEN1/getStringName)
 5. `CHAT` : ID of Channel/Group where the bot plays Music.
 6. `OWNER_ID`  : [@MissRose_bot]
+7. `BOT_PIC` : https://te.legra.ph/file/509686aa88a027bffe2b3.jpg  Get from [@vTelegraphBot]
 ## Recommended Optional Vars
 
 1. `DATABASE_URI`: MongoDB database Url, get from [mongodb](https://cloud.mongodb.com). This is an optional var, but it is recomonded to use this to experiance the full features.
