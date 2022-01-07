@@ -1,4 +1,4 @@
-# ALBYVIDEOPLAYERBOT
+# SANTHOSHPODILI
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
 ## Config Vars:
@@ -8,7 +8,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 3. `BOT_TOKEN` : [@Botfather](https://telegram.dog/BotFather)
 4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@ALBINPRAVEEN1/getStringName)
 5. `CHAT` : ID of Channel/Group where the bot plays Music.
-
+6. `OWNER_ID`  : [@MissRose_bot]
 ## Recommended Optional Vars
 
 1. `DATABASE_URI`: MongoDB database Url, get from [mongodb](https://cloud.mongodb.com). This is an optional var, but it is recomonded to use this to experiance the full features.
@@ -47,12 +47,12 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALBINPRAVEEN/AlbyVideoPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/santhu874/AlbyVideoPlayer1.git
 
 ## Deploy to VPS
 
 ```sh
-git clone https://github.com/ALBINPRAVEEN/AlbyVideoPlayer
+git clone  https://github.com/santhu874/AlbyVideoPlayer1.git
 cd AlbyVideoPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately (.env [optional])>
